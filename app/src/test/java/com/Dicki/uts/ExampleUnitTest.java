@@ -1,4 +1,4 @@
-package com.affan.uts;
+package com.dicki.uts;
 
 import org.junit.Test;
 
